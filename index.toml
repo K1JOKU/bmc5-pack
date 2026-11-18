@@ -665,7 +665,7 @@ hash = "efcd18a83d77771a034a70fe19436578e489bb7d891434e0832091b14e6e910a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "11f0d792208db3bcdd2aacd588573968e793dafb1be333aeeb9163e7caf69c3b"
+hash = "27efd024d416325040ad419286ee4e3bf875496b5e346ca692dae9a03e35669b"
 
 [[files]]
 file = "config/bedrockoid-config.toml"

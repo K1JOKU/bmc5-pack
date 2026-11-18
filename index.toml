@@ -1901,7 +1901,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7bebce90a37ebb4a3bd8a0d93f6d606895021fc3737836441a9eb36f7d0c3804"
+hash = "5b2e096d7181d231cc530528900682704d175fc9bc87833d7d5791c1645128dd"
 
 [[files]]
 file = "config/iris_shader_folder.properties"

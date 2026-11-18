@@ -3307,6 +3307,10 @@ hash = "df5611d651e996b9101ebf14309a921961ba2fad66b65738010964875e886a57"
 metafile = true
 
 [[files]]
+file = "mods/DnT-woodland-mansion-replacement-v1.2 [NeoForge].jar"
+hash = "27496934f832f92a1c4f099bb2fe54808ed7ab3d84316cd955cfebbe0eb24b3e"
+
+[[files]]
 file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
 hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
 
@@ -3773,11 +3777,6 @@ metafile = true
 [[files]]
 file = "mods/dnt-swamp-hut-overhaul.pw.toml"
 hash = "d61eb0419dac47f5cca10b54edcc289775a18c51c2e7b0ed3bd90daee8ae59b2"
-metafile = true
-
-[[files]]
-file = "mods/dnt-woodland-mansion-overhaul.pw.toml"
-hash = "dabdd4071bef81076c7fe7ff6bfa85830f5d87efd25b069fb78eb7134304b567"
 metafile = true
 
 [[files]]
@@ -5046,6 +5045,10 @@ file = "resourcepacks/Re-Simple-Storage.zip"
 hash = "36eff606d39fd0d8622cd6b7fafc821260d3ec64a10893791e5e692495b72d3a"
 
 [[files]]
+file = "resourcepacks/Stay Clear V1.1 [1.21.1].zip"
+hash = "8f708c91f0b38a9c3b5ca0f9039f093912a03b4b44bf95249618a729dc8a7565"
+
+[[files]]
 file = "resourcepacks/The Rename Compat Project.zip"
 hash = "89ea67f0d9be93acc40c9e307b44a307b9f7430c6ab5a774653b7c500723aefc"
 
@@ -5102,11 +5105,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/modded-omelet.pw.toml"
 hash = "a4225df4b770d8caec5888f5586ff73b5da7f88ea1c52a1842b99ea5b6389af3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-clear.pw.toml"
-hash = "f14ca61200529e542c2d3314a8112d4321276d9ee76bccb60009721ceab8455d"
 metafile = true
 
 [[files]]

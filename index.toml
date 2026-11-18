@@ -3307,6 +3307,26 @@ hash = "df5611d651e996b9101ebf14309a921961ba2fad66b65738010964875e886a57"
 metafile = true
 
 [[files]]
+file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
+hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
+
+[[files]]
+file = "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar"
+hash = "496ae9069eaa766921fa10b042579898d561bf2659a02b8cc47d72983e51a7b2"
+
+[[files]]
+file = "mods/Structory_26.1_v1.3.16.jar"
+hash = "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"
+
+[[files]]
+file = "mods/Structory_Towers_26.1_v1.0.16.jar"
+hash = "a9c1715219642c87d105bd944a0316c9a22cd3caf83836e21bcaaee3fd4f04e2"
+
+[[files]]
+file = "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
+hash = "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "1d311fd70f90631c33fc2ca54ee85946b6c594a91c22e6e448eb46774c0ebd52"
 metafile = true
@@ -3327,9 +3347,8 @@ hash = "d265ac189584179fe5ec32151e57f4ea4a1bd3ffda02a1f7c47e778266639eba"
 metafile = true
 
 [[files]]
-file = "mods/adorabuild-structures.pw.toml"
-hash = "31a6a8e47649dfe6d98614908a3dfb56f3350ec145df47e54d215dc36fa139fa"
-metafile = true
+file = "mods/adorabuild-structures-2.11.0-neoforge-1.21.3.jar"
+hash = "6f399680da36dbb95b9a0dbf8b600f173e650be4d6bc25f50fcac792dcce081e"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
@@ -3462,18 +3481,12 @@ hash = "f60ac80e7ae3dae1932ae29ce7abbdbcd6f42778685abc7eac967709b476c65c"
 metafile = true
 
 [[files]]
-file = "mods/bedrockoid.pw.toml"
-hash = "fe44a5f4194dd89f948b563b80b62174b67e4e669bf64c076b9bcf74bd226f90"
-metafile = true
+file = "mods/bedrockoid-0.1.5.jar"
+hash = "3af6af9cff8e52259a24e41680e5f451ee1d6e821470b00dd6dfb4c4521e14f6"
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
-metafile = true
-
-[[files]]
-file = "mods/better-client.pw.toml"
-hash = "8a293ab3a88791ca86b39b3c17bdc2f73b9f35bbb86b2c4e7dddb0de86077953"
 metafile = true
 
 [[files]]
@@ -3487,14 +3500,17 @@ hash = "09a7c7c83621b0079ced5a3867e6a575e25a1c191c23bb232c8178d7da083bd3"
 metafile = true
 
 [[files]]
-file = "mods/better-world-loading-forge.pw.toml"
-hash = "ba6300f8b73556615470c389c84dd3a594ffc9d435ffdbfa4288351f27017139"
-metafile = true
+file = "mods/better_client-neoforge-1.10.1.jar"
+hash = "5febb16fecb8e16521f7a584f234d0c295253e53be7f8c654fa7a1b17736971a"
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "b04840112e6ccdd5b19963f7007d202d455167d6ec26e81f8dcfea5a2cbe8cae"
 metafile = true
+
+[[files]]
+file = "mods/betterworldloadingnf21-1.0.jar"
+hash = "1f03ee49b48fbb9c138b0426437040408d26b64bc178c4fbac44dbaf90959bb3"
 
 [[files]]
 file = "mods/biome-music.pw.toml"
@@ -3507,14 +3523,12 @@ hash = "838a0031854e49bd8363cc5a3f8bd4016c07d51ec985f0d94d523ec8351cb088"
 metafile = true
 
 [[files]]
-file = "mods/blended-compat.pw.toml"
-hash = "8e1f17dcb40352d1604d521736734f40b10b58629cd063af5b244831ac28039a"
-metafile = true
+file = "mods/blended-compat-1.1.2.jar"
+hash = "33d71a2b1ddfa7cffc7c1d5a683b8f73d5e7ef6f665c0937dc1ee97992e81ab9"
 
 [[files]]
-file = "mods/bmc-patcher.pw.toml"
-hash = "081302963ea795a69e825f269dc42e64dad156499a68b4296f7f9d6c5a851923"
-metafile = true
+file = "mods/bmcpalegardenpatcher-0.3.0.jar"
+hash = "817586294e8190f177e56dfb06107d539d5fe184ce3b93fc6211ec790e528467"
 
 [[files]]
 file = "mods/boat-item-view-forge.pw.toml"
@@ -3842,9 +3856,8 @@ hash = "cc68235aff068c4a38af04e4091516720bb731cbb3789b1f6736f096523b336f"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "f17b239b9bbf7ba084f33d71699082f112ffdb77a3bd39af877c6a0da961ede1"
-metafile = true
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 
 [[files]]
 file = "mods/epherolib.pw.toml"
@@ -4022,11 +4035,6 @@ hash = "1e5d37a3fb41e78708215f521e8b3f3a661b2157bd9e15abf4c39c4eb87621ba"
 metafile = true
 
 [[files]]
-file = "mods/geophilic-backport-vanilla-backport-compact.pw.toml"
-hash = "3e6a078509687ba092ff7d2bf64551b3c3bb160fa76dd3d31e628a8cdc7ecd46"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "26211469f250c2c31a9dd9ee7fe673064c927958be9a9b8753395274cbe1ecee"
 metafile = true
@@ -4052,6 +4060,10 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/hapi-neoforge-1.21.1-1.1.3.jar"
+hash = "c134b74c8d9b9a449fda88d3ef4ad652a2ed394b5693a7e440a008bd1a33c937"
+
+[[files]]
 file = "mods/hearths.pw.toml"
 hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
 metafile = true
@@ -4069,11 +4081,6 @@ metafile = true
 [[files]]
 file = "mods/hrtffix.pw.toml"
 hash = "5b1d1fd53ab7bad2a6902c14d89003bc40cbd16ffae050a7616fca725dc0639d"
-metafile = true
-
-[[files]]
-file = "mods/hybrid-api.pw.toml"
-hash = "194b9db94d4fbd53270ebc38be91a41b3922a9c2b09f792a223f25df2b00c43f"
 metafile = true
 
 [[files]]
@@ -4472,9 +4479,8 @@ hash = "fcca872e98f57de59f94058c86469574b043dbd262e18b5477c9dd71f749e440"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "d9054c3a348ce8c3582cc525433288777d5293232ca91684cf69f6eb939375b5"
-metafile = true
+file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
 file = "mods/oceans-delight.pw.toml"
@@ -4519,11 +4525,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
-metafile = true
-
-[[files]]
-file = "mods/particle-effects.pw.toml"
-hash = "c2749df96a9eef1182b6d298ce036bbb72a9df09f24bd56830da8064d405d0b0"
 metafile = true
 
 [[files]]
@@ -4707,9 +4708,8 @@ hash = "7dc88c27034428c5fe971c5347532cfbc9657052b627f5cb6fbd8c6a5a62760e"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "19c1e9ef46809eb5671bb3a7b76b79f89025d8ca586ca913cd99bd72d7e13488"
-metafile = true
+file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
+hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
@@ -4792,16 +4792,6 @@ hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "e74548b0dc0bb3633e122f1c36fc8a7978128f15d11cea1a9b54da4991bc1e6f"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "2232bcc24b4b597dfd19deb3618bf8e0431d7437e978f7503f32ec59f6dd16cd"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 metafile = true
@@ -4809,11 +4799,6 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "29b33bd2ee22f33878ca019f4866144ab2ca5b2f965c9f12706ad5ad206281ae"
 metafile = true
 
 [[files]]
@@ -4882,9 +4867,8 @@ hash = "4e45d6b3ee689b7bf8a0b30eaf8570c6f9140222e6677d82aaf0b7de6dddf4e7"
 metafile = true
 
 [[files]]
-file = "mods/vb-compat.pw.toml"
-hash = "ea963bd48004e20249381ba53582254bdcffa18eac2c99ed9b23d9809f0b4598"
-metafile = true
+file = "mods/vb-compat-2.0-1.21.1.jar"
+hash = "a543332d10f97070e5f9083a3bcfcb7aa378a91cc68b4a0684dc4a9f461f4adf"
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
@@ -5042,8 +5026,28 @@ hash = "7d62a8df9510c6fe0499da1b49dfc8dc8a39ce1f498ede3fe907c6ee56f7d9af"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.1.zip"
+hash = "636360f61edafac38eb925e3d46e7ba72c3a118d5b167f3ead1d5f34898b6314"
+
+[[files]]
+file = "resourcepacks/Mandala's GUI - Dark Mode Compat Neo 0.3 Fix.zip"
+hash = "62220c5fa0fb3d10670b48e69f4991477c181657991a223d6ec90cb394fc37ea"
+
+[[files]]
+file = "resourcepacks/Mandela's GUI Vanilla Crosshair 1.21.zip"
+hash = "51e1a9b246b1269aef2f8728be0d42bedf914121154217cc729d3cf254e4e357"
+
+[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "fb0ac2ffd9b8d5909764b3b57b7a567b24e030b9483d1a5d71c1f0ab41e31268"
+
+[[files]]
+file = "resourcepacks/Re-Simple-Storage.zip"
+hash = "36eff606d39fd0d8622cd6b7fafc821260d3ec64a10893791e5e692495b72d3a"
+
+[[files]]
+file = "resourcepacks/The Rename Compat Project.zip"
+hash = "89ea67f0d9be93acc40c9e307b44a307b9f7430c6ab5a774653b7c500723aefc"
 
 [[files]]
 file = "resourcepacks/armor-trim-compats.pw.toml"
@@ -5096,18 +5100,8 @@ hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mandalas-gui-vanilla-crosshair.pw.toml"
-hash = "1f2688fad3b9cba90680b80fe98a8ef783d1d6fac8d647ca92225f0e7594c758"
-metafile = true
-
-[[files]]
 file = "resourcepacks/modded-omelet.pw.toml"
 hash = "a4225df4b770d8caec5888f5586ff73b5da7f88ea1c52a1842b99ea5b6389af3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/re-imagine-tom-simple-storage.pw.toml"
-hash = "3ec20249eaa9190028419c410a86c08292f84789e2ffed208957107a0203dd3e"
 metafile = true
 
 [[files]]
@@ -5123,21 +5117,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/sweetys-items-alexs-mobs.pw.toml"
 hash = "fca93a5140cafd56140fb0401a8abc67c5d03f144db0778d13d9e599d459e04b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/the-rcp.pw.toml"
-hash = "393ce597e6ffb754a871b885820b5860c32524f28f2466bf28be60d22f823540"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
-hash = "9da31afa22efcca60d4c6fb911c2aa88818b79bb42a11030fb2435f40e1c9a0a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unofficial-mandalas-gui-dark-mode-neo.pw.toml"
-hash = "c10bf8a31da0593e180176b37b10906746d669493981473fbf57855476e258cb"
 metafile = true
 
 [[files]]

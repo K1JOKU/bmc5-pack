@@ -3327,10 +3327,6 @@ file = "mods/Structory_Towers_26.1_v1.0.16.jar"
 hash = "a9c1715219642c87d105bd944a0316c9a22cd3caf83836e21bcaaee3fd4f04e2"
 
 [[files]]
-file = "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
-hash = "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "1d311fd70f90631c33fc2ca54ee85946b6c594a91c22e6e448eb46774c0ebd52"
 metafile = true
@@ -3494,6 +3490,11 @@ hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
+file = "mods/better-client-neoforge-1-10-1.pw.toml"
+hash = "7718de5983c52be0ec08260a45806b2ee8c58cb215c8e7ee6bc84dd9885d632c"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
 metafile = true
@@ -3502,10 +3503,6 @@ metafile = true
 file = "mods/better-mods-button.pw.toml"
 hash = "09a7c7c83621b0079ced5a3867e6a575e25a1c191c23bb232c8178d7da083bd3"
 metafile = true
-
-[[files]]
-file = "mods/better_client-neoforge-1.10.1.jar"
-hash = "5febb16fecb8e16521f7a584f234d0c295253e53be7f8c654fa7a1b17736971a"
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
@@ -3855,8 +3852,9 @@ hash = "cc68235aff068c4a38af04e4091516720bb731cbb3789b1f6736f096523b336f"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
-hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+file = "mods/entityculling-neoforge-1-10-5-mc1-21-1.pw.toml"
+hash = "0b45104aef49f3bb405b5dca6832f7e21c6b59f38b4b6b3b51f0708fc889b223"
+metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
@@ -4488,8 +4486,9 @@ hash = "fcca872e98f57de59f94058c86469574b043dbd262e18b5477c9dd71f749e440"
 metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
-hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
+file = "mods/notenoughanimations-neoforge-1-12-4-mc1-21-1.pw.toml"
+hash = "1c7fe48529060091a67adc382b6278091949924fa94a16869b73b8caca775278"
+metafile = true
 
 [[files]]
 file = "mods/oceans-delight.pw.toml"
@@ -4534,6 +4533,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+metafile = true
+
+[[files]]
+file = "mods/particleeffects-1-5-0-1-21-1-neoforge.pw.toml"
+hash = "e92f07407cc221061b5cd8132e8cb40455bd83f687f3cb2f990310e33b700537"
 metafile = true
 
 [[files]]
@@ -4717,8 +4721,9 @@ hash = "7dc88c27034428c5fe971c5347532cfbc9657052b627f5cb6fbd8c6a5a62760e"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
-hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
+file = "mods/skinlayers3d-neoforge-1-11-2-mc1-21-1.pw.toml"
+hash = "b05f23b3c262bc4fad44b5c5307342e1f76d510795185b45c03fc20f7a710015"
+metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
@@ -4803,6 +4808,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
+metafile = true
+
+[[files]]
+file = "mods/subtleeffects-neoforge-1-21-1-1-14-3.pw.toml"
+hash = "391c79fef8637950d3e832e642e9e6056e9e4945ce26bea66afc70bff026dfa3"
 metafile = true
 
 [[files]]

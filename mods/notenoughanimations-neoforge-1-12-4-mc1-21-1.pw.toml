@@ -1,0 +1,8 @@
+name = "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+filename = "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/K1JOKU/bmc5-pack/main/mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"

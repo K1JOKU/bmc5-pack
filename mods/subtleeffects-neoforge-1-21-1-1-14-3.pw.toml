@@ -1,0 +1,8 @@
+name = "SubtleEffects-neoforge-1.21.1-1.14.3.jar"
+filename = "SubtleEffects-neoforge-1.21.1-1.14.3.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/K1JOKU/bmc5-pack/main/mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
+hash-format = "sha256"
+hash = "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67"

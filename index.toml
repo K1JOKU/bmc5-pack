@@ -4527,11 +4527,6 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
-file = "mods/pack-analytics.pw.toml"
-hash = "0824eeff5a21af97f8121af4b717afdebab0be34733fca1a6f830f7c86f0a6cf"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true

@@ -4911,7 +4911,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "45f2716f6f9df0cfbe1bb7220639fce697452dbbaf8c7b45a283667c90685104"
+hash = "0cafcd788dcdd63d452c1ef74b72db8b1d220622046d10fa954c36bcae8aa6ab"
 metafile = true
 
 [[files]]

@@ -4781,11 +4781,6 @@ hash = "d151568fb8fc516d10bd43434c5f48e75dbcd1dcb870556a6f1b9b9ebee7eea7"
 metafile = true
 
 [[files]]
-file = "mods/starcatchers-delight.pw.toml"
-hash = "ec2a3d1b17d819c8e9607dc01323faf223c29a45eb8a2ab13efe21729a751f87"
-metafile = true
-
-[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "dc97ef16a6526c12945cf70ca642148a9bdcb75a98d986245a7e20d35cabb5d5"
 metafile = true

@@ -4457,6 +4457,10 @@ hash = "ea82354ef4e1fffa1a98740a81966341f097f7423c2adf40c83c68919870c25a"
 metafile = true
 
 [[files]]
+file = "mods/neopay-1.8.1.jar"
+hash = "9c86b8976d9673b2fc3c26bf99c6c845b47ed005b6f1a740f35b2bfa1c850638"
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "e1f504fd329ada442d77f3990edfceea6bb66b207a880afd1efc51aa8d978016"
 metafile = true

@@ -3315,10 +3315,6 @@ file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
 hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
 
 [[files]]
-file = "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar"
-hash = "496ae9069eaa766921fa10b042579898d561bf2659a02b8cc47d72983e51a7b2"
-
-[[files]]
 file = "mods/Structory_26.1_v1.3.16.jar"
 hash = "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"
 
@@ -4537,7 +4533,7 @@ metafile = true
 
 [[files]]
 file = "mods/particleeffects-1-5-0-1-21-1-neoforge.pw.toml"
-hash = "e92f07407cc221061b5cd8132e8cb40455bd83f687f3cb2f990310e33b700537"
+hash = "8e6b476a4fd32bf720c30862750c70d81a1fa5558292d7e46b7e21fa431ba3d4"
 metafile = true
 
 [[files]]

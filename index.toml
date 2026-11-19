@@ -4732,6 +4732,11 @@ hash = "b05f23b3c262bc4fad44b5c5307342e1f76d510795185b45c03fc20f7a710015"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "e092c14ff1fb54dbe0348f76b45b5b721adc99e55ec60f15aa61d37523e4ab15"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
 metafile = true
